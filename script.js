@@ -12,7 +12,7 @@ function goToChat() {
   
   // Add a slight delay so the toast animation plays before navigating
   setTimeout(() => {
-    window.location.href = 'chat.html';
+    window.location.href = '/chats';
   }, 600);
 }
 
